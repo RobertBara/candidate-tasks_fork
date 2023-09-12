@@ -2,12 +2,14 @@
 Root directory for Login Page designed in Python.
 
 Structure:
+'''bash
 python_project -> root directory
 |-- task01 -> directory with implemented task
 |-- tests -> directory with tests suites, helpers, mocks, resources...
     |-- mocks -> directory with mock definitions used for testing
     |-- resources -> direcotry with all required resources like dataset, configs...
     |-- test_suites -> directory with test suites
+'''
 
 How To Execute tests:
 - Create python venv: python -m venv .test_venv
