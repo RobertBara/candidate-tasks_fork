@@ -1,3 +1,6 @@
+package task01;
+import services.AuthenticationService;
+
 public class LoginPage {
     
     public boolean login(String username, String password, AuthenticationService authService) {
